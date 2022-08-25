@@ -500,10 +500,13 @@ footer{
         margin-right: 0px;
         flex-direction: column;
     }
-    #aboutme{
-        position: absolute;
-        top: 175%;
-        left:140px;
+     #aboutme{
+        position: relative;
+        top: -550px;
+        left:-150px;
+    }
+    #aboutme::before{
+        left:85px;
     }
     .col1{
         flex-direction: column;
