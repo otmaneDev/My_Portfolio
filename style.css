@@ -503,7 +503,7 @@ footer{
      #aboutme{
         position: relative;
         top: -550px;
-        left:-150px;
+        left:-105px;
     }
     #aboutme::before{
         left:85px;
